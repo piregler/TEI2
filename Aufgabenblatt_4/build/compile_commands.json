@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Aufgabenblatt_4/build",
+  "command": "/usr/bin/clang   -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -o CMakeFiles/CMakeBSP.dir/bsp.c.o -c /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Aufgabenblatt_4/src/bsp.c",
+  "file": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Aufgabenblatt_4/src/bsp.c"
+},
+{
+  "directory": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Aufgabenblatt_4/build",
+  "command": "/usr/bin/clang   -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -o CMakeFiles/CMakeBSP.dir/func.c.o -c /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Aufgabenblatt_4/src/func.c",
+  "file": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Aufgabenblatt_4/src/func.c"
+}
+]
