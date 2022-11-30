@@ -4,14 +4,14 @@
 
 
 # Configuration directories and files
-SourceDirectory: /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector
-BuildDirectory: /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector/build
+SourceDirectory: /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector
+BuildDirectory: /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/build
 
 # Where to place the cost data store
 CostDataFile: 
 
 # Site is something like machine.domain, i.e. pragmatic.crd
-Site: MacBook-Air-von-Stefan.local
+Site: Air-von-Stefan
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
 BuildName: Darwin-clang++
@@ -27,7 +27,7 @@ SubmitInactivityTimeout:
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/local/Cellar/cmake/3.24.3/bin/cmake" "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector"
+ConfigureCommand: "/usr/local/Cellar/cmake/3.24.3/bin/cmake" "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector"
 MakeCommand: /usr/local/Cellar/cmake/3.24.3/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}" -- -i
 DefaultCTestConfigurationType: Release
 

@@ -3,7 +3,7 @@
 using namespace std;
 
 Matrix::Matrix() 
-        : m_Zeilen (2), m_Spalten (1)
+        : m_Zeilen (2), m_Spalten (1) // m_Element{420, 420}
     {
         m_Element[0] = 2;
         m_Element[1] = 2;
@@ -15,9 +15,13 @@ void Matrix::ausgabe(){
         for (int i = 0; i < m_Zeilen; i++){
             cout << m_Element[i] << "\n";
         }
+        cout << endl;
     }
 }
 
     Matrix::~Matrix() {
+        cout << "Matrix" << endl;
+        ausgabe();
+        cout << "wird zerstört" << endl << endl;
     }
     

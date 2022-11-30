@@ -83,7 +83,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/stefanmuller/Documents/Studium/\u00dcbungen/2_Semester/TEI_2/C_Code/Matrix_Vector/build"
+			"value" : "/Users/stefanmuller/Documents/Studium/\u00dcbungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -523,7 +523,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/stefanmuller/Documents/Studium/\u00dcbungen/2_Semester/TEI_2/C_Code/Matrix_Vector/build/CMakeFiles/pkgRedirects"
+			"value" : "/Users/stefanmuller/Documents/Studium/\u00dcbungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -583,7 +583,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/stefanmuller/Documents/Studium/\u00dcbungen/2_Semester/TEI_2/C_Code/Matrix_Vector"
+			"value" : "/Users/stefanmuller/Documents/Studium/\u00dcbungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1699,7 +1699,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/stefanmuller/Documents/Studium/\u00dcbungen/2_Semester/TEI_2/C_Code/Matrix_Vector/build"
+			"value" : "/Users/stefanmuller/Documents/Studium/\u00dcbungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/build"
 		},
 		{
 			"name" : "Matrix_vector_IS_TOP_LEVEL",
@@ -1723,7 +1723,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/stefanmuller/Documents/Studium/\u00dcbungen/2_Semester/TEI_2/C_Code/Matrix_Vector"
+			"value" : "/Users/stefanmuller/Documents/Studium/\u00dcbungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector"
 		},
 		{
 			"name" : "P4COMMAND",
@@ -1755,7 +1755,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "MacBook-Air-von-Stefan.local"
+			"value" : "Air-von-Stefan"
 		},
 		{
 			"name" : "SVNCOMMAND",

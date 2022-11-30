@@ -1,4 +1,4 @@
-# Install script for directory: /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector
+# Install script for directory: /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,22 +1,22 @@
 [
 {
-  "directory": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector/build",
-  "command": "/usr/bin/clang++   -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -o CMakeFiles/Matrix_vector.dir/main.cpp.o -c /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector/main.cpp",
-  "file": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector/main.cpp"
+  "directory": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/build",
+  "command": "/usr/bin/clang++   -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++20 -o CMakeFiles/Matrix_vector.dir/main.cpp.o -c /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/main.cpp",
+  "file": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/main.cpp"
 },
 {
-  "directory": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector/build",
-  "command": "/usr/bin/clang++   -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -o CMakeFiles/Matrix_vector.dir/Matrix.cpp.o -c /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector/Matrix.cpp",
-  "file": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector/Matrix.cpp"
+  "directory": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/build",
+  "command": "/usr/bin/clang++   -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++20 -o CMakeFiles/Matrix_vector.dir/Matrix.cpp.o -c /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/Matrix.cpp",
+  "file": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/Matrix.cpp"
 },
 {
-  "directory": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector/build",
-  "command": "/usr/bin/clang++   -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -o CMakeFiles/Matrix_vector.dir/Vector.cpp.o -c /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector/Vector.cpp",
-  "file": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector/Vector.cpp"
+  "directory": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/build",
+  "command": "/usr/bin/clang++   -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++20 -o CMakeFiles/Matrix_vector.dir/Vector.cpp.o -c /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/Vector.cpp",
+  "file": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/Vector.cpp"
 },
 {
-  "directory": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector/build",
-  "command": "/usr/bin/clang++   -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -o CMakeFiles/Matrix_vector.dir/Vector2D.cpp.o -c /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector/Vector2D.cpp",
-  "file": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/Matrix_Vector/Vector2D.cpp"
+  "directory": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/build",
+  "command": "/usr/bin/clang++   -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++20 -o CMakeFiles/Matrix_vector.dir/Vector2D.cpp.o -c /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/Vector2D.cpp",
+  "file": "/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/Vector2D.cpp"
 }
 ]
