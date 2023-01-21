@@ -2,6 +2,8 @@
 #define __MATRIX_HEADER__
 
 class Matrix{
+private:
+    static int counter;
 protected: 
     int m_Zeilen;
     int m_Spalten;
@@ -10,7 +12,7 @@ protected:
 public:
     Matrix(); 
     ~Matrix();
-    void ausgabe();
+    static int getCounter();
+    virtual void ausgabe();
 };
-
 #endif /*____MATRIX_HEADER__*/

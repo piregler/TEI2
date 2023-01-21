@@ -5,8 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Matrix_vector.dir/Vector.cpp.o.d"
   "CMakeFiles/Matrix_vector.dir/Vector2D.cpp.o"
   "CMakeFiles/Matrix_vector.dir/Vector2D.cpp.o.d"
-  "CMakeFiles/Matrix_vector.dir/main.cpp.o"
-  "CMakeFiles/Matrix_vector.dir/main.cpp.o.d"
+  "CMakeFiles/Matrix_vector.dir/pointertest.cpp.o"
+  "CMakeFiles/Matrix_vector.dir/pointertest.cpp.o.d"
   "Matrix_vector"
   "Matrix_vector.pdb"
 )

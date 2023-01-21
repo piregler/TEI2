@@ -69,19 +69,19 @@ include CMakeFiles/Matrix_vector.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Matrix_vector.dir/flags.make
 
-CMakeFiles/Matrix_vector.dir/main.cpp.o: CMakeFiles/Matrix_vector.dir/flags.make
-CMakeFiles/Matrix_vector.dir/main.cpp.o: /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/main.cpp
-CMakeFiles/Matrix_vector.dir/main.cpp.o: CMakeFiles/Matrix_vector.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Matrix_vector.dir/main.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Matrix_vector.dir/main.cpp.o -MF CMakeFiles/Matrix_vector.dir/main.cpp.o.d -o CMakeFiles/Matrix_vector.dir/main.cpp.o -c /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/main.cpp
+CMakeFiles/Matrix_vector.dir/pointertest.cpp.o: CMakeFiles/Matrix_vector.dir/flags.make
+CMakeFiles/Matrix_vector.dir/pointertest.cpp.o: /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/pointertest.cpp
+CMakeFiles/Matrix_vector.dir/pointertest.cpp.o: CMakeFiles/Matrix_vector.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Matrix_vector.dir/pointertest.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Matrix_vector.dir/pointertest.cpp.o -MF CMakeFiles/Matrix_vector.dir/pointertest.cpp.o.d -o CMakeFiles/Matrix_vector.dir/pointertest.cpp.o -c /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/pointertest.cpp
 
-CMakeFiles/Matrix_vector.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Matrix_vector.dir/main.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/main.cpp > CMakeFiles/Matrix_vector.dir/main.cpp.i
+CMakeFiles/Matrix_vector.dir/pointertest.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Matrix_vector.dir/pointertest.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/pointertest.cpp > CMakeFiles/Matrix_vector.dir/pointertest.cpp.i
 
-CMakeFiles/Matrix_vector.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Matrix_vector.dir/main.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/main.cpp -o CMakeFiles/Matrix_vector.dir/main.cpp.s
+CMakeFiles/Matrix_vector.dir/pointertest.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Matrix_vector.dir/pointertest.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/pointertest.cpp -o CMakeFiles/Matrix_vector.dir/pointertest.cpp.s
 
 CMakeFiles/Matrix_vector.dir/Matrix.cpp.o: CMakeFiles/Matrix_vector.dir/flags.make
 CMakeFiles/Matrix_vector.dir/Matrix.cpp.o: /Users/stefanmuller/Documents/Studium/Übungen/2_Semester/TEI_2/C_Code/TEI2/Matrix_Vector/Matrix.cpp
@@ -127,7 +127,7 @@ CMakeFiles/Matrix_vector.dir/Vector2D.cpp.s: cmake_force
 
 # Object files for target Matrix_vector
 Matrix_vector_OBJECTS = \
-"CMakeFiles/Matrix_vector.dir/main.cpp.o" \
+"CMakeFiles/Matrix_vector.dir/pointertest.cpp.o" \
 "CMakeFiles/Matrix_vector.dir/Matrix.cpp.o" \
 "CMakeFiles/Matrix_vector.dir/Vector.cpp.o" \
 "CMakeFiles/Matrix_vector.dir/Vector2D.cpp.o"
@@ -135,7 +135,7 @@ Matrix_vector_OBJECTS = \
 # External object files for target Matrix_vector
 Matrix_vector_EXTERNAL_OBJECTS =
 
-Matrix_vector: CMakeFiles/Matrix_vector.dir/main.cpp.o
+Matrix_vector: CMakeFiles/Matrix_vector.dir/pointertest.cpp.o
 Matrix_vector: CMakeFiles/Matrix_vector.dir/Matrix.cpp.o
 Matrix_vector: CMakeFiles/Matrix_vector.dir/Vector.cpp.o
 Matrix_vector: CMakeFiles/Matrix_vector.dir/Vector2D.cpp.o

@@ -595,29 +595,29 @@ Vector2D.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix_vector.dir/build.make CMakeFiles/Matrix_vector.dir/Vector2D.cpp.s
 .PHONY : Vector2D.cpp.s
 
-main.o: main.cpp.o
-.PHONY : main.o
+pointertest.o: pointertest.cpp.o
+.PHONY : pointertest.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix_vector.dir/build.make CMakeFiles/Matrix_vector.dir/main.cpp.o
-.PHONY : main.cpp.o
+pointertest.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix_vector.dir/build.make CMakeFiles/Matrix_vector.dir/pointertest.cpp.o
+.PHONY : pointertest.cpp.o
 
-main.i: main.cpp.i
-.PHONY : main.i
+pointertest.i: pointertest.cpp.i
+.PHONY : pointertest.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix_vector.dir/build.make CMakeFiles/Matrix_vector.dir/main.cpp.i
-.PHONY : main.cpp.i
+pointertest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix_vector.dir/build.make CMakeFiles/Matrix_vector.dir/pointertest.cpp.i
+.PHONY : pointertest.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+pointertest.s: pointertest.cpp.s
+.PHONY : pointertest.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix_vector.dir/build.make CMakeFiles/Matrix_vector.dir/main.cpp.s
-.PHONY : main.cpp.s
+pointertest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Matrix_vector.dir/build.make CMakeFiles/Matrix_vector.dir/pointertest.cpp.s
+.PHONY : pointertest.cpp.s
 
 # Help Target
 help:
@@ -668,9 +668,9 @@ help:
 	@echo "... Vector2D.o"
 	@echo "... Vector2D.i"
 	@echo "... Vector2D.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... pointertest.o"
+	@echo "... pointertest.i"
+	@echo "... pointertest.s"
 .PHONY : help
 
 
